@@ -1,0 +1,10 @@
+$darkGrey: #111;
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: $darkGrey;
+}
